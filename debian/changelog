@@ -1,6 +1,13 @@
+python-redis (2.4.13-1) lucid; urgency=low
+
+  [ Manuel Amador (Rudd-O) ]
+  * Adapt to Lucid
+
+ -- Manuel Amador (Rudd-O) <rudd-o@rudd-o.com>  Wed, 23 May 2012 00:28:09 +0000
+
 python-redis (0.6.1-1) unstable; urgency=low
 
+  [ Chris Lamb ]
   * Initial release.
     - Source package split from "redis" source package.
 
- -- Chris Lamb <lamby@debian.org>  Wed, 13 Jan 2010 23:54:06 +0000
